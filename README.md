@@ -1,8 +1,8 @@
 # Villager Guards
 
-Now warrior villagers will appear in the villages, there are two types, archers and swordsmen, they can grab totems, weapons and armor.
+Now villager guards will appear in the villages, there are two types, archers and swordsmen, they can pick up weapons, armors and totems!
 
-You can also turn an fletcher villager into an archer by dropping a bow at him
+You can turn an fletcher villager into an archer by dropping a bow at him
 and turn a weaponsmith villager into a swordman by dropping a iron sword at him.
 
 Version: `1.21.4`
