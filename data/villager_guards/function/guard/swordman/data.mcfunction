@@ -1,6 +1,7 @@
 tag @s add villager_guards.guard.swordman
 tag @s add villager_guards.guard
 tag @s add utils.team_player
+tag @s add lullaby_mobs.natural_spawn.bypass
 
 team join player @s
 
