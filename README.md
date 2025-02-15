@@ -7,7 +7,7 @@ and turn a weaponsmith villager into a swordman by dropping a iron sword at him.
 
 Version: `1.21.4`
 
-## Requeriments
+## ❗Requirements
 
 - [`Utils Data-Pack`](https://modrinth.com/datapack/lullaby-utils)
 
