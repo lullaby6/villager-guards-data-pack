@@ -1,5 +1,11 @@
 # Villager Guards
 
+[![Latest Version](https://img.shields.io/github/v/release/lullaby6/villager-guards-data-pack?color=blueviolet&logo=github "View latest release")](https://github.com/lullaby6/villager-guards-data-pack/releases) 
+[![Discord Badge](https://img.shields.io/discord/1327308441324097681?label=discord&color=blue&logo=discord "Join our Discord Server")](https://discord.gg/5UdcDa5xNC) 
+[![Modrinth Badge](https://img.shields.io/modrinth/dt/villager-guards?label=modrinth&logo=modrinth "View our Modrinth page")](https://modrinth.com/datapack/villager-guards) 
+[![License Badge](https://img.shields.io/badge/license-mit-green "View the License")](https://github.com/lullaby6/villager-guards-data-pack/blob/main/LICENSE) 
+[![Issues Badge](https://img.shields.io/github/issues/lullaby6/villager-guards-data-pack?color=orange&logo=github "View or open an issue")](https://github.com/lullaby6/villager-guards-data-pack/issues)
+
 Now villager guards will appear in the villages, there are two types, archers and swordsmen, they can pick up weapons, armors and totems!
 
 You can turn an fletcher villager into an archer by dropping a bow at him
@@ -58,4 +64,4 @@ Enable:
 
 ## 🪪 License
 
-[MIT](https://github.com/lullaby6/villager-guards-data-pack?tab=MIT-1-ov-file)
+[MIT](https://github.com/lullaby6/villager-guards-data-pack/blob/main/LICENSE)
