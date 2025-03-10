@@ -1,1 +1,0 @@
-execute summon minecraft:piglin_brute run function villager_guards:guard/swordman/data

@@ -1,0 +1,1 @@
+$execute summon minecraft:wandering_trader run function mb:trader/data {"team":"$(team)"}

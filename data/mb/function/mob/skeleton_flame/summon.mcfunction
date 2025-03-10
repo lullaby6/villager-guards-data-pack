@@ -1,0 +1,1 @@
+$execute summon minecraft:skeleton run function mb:mob/skeleton_flame/data {"team":"$(team)"}

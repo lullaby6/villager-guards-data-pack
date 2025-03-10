@@ -1,0 +1,1 @@
+$execute summon minecraft:wither_skeleton run function mb:mob/wither_skeleton/data {"team":"$(team)"}
