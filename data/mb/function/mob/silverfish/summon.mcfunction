@@ -1,1 +1,0 @@
-$execute summon minecraft:silverfish run function mb:mob/silverfish/data {"team":"$(team)"}

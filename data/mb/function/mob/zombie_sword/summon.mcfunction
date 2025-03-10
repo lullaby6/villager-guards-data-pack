@@ -1,1 +1,0 @@
-$execute summon minecraft:zombie run function mb:mob/zombie_sword/data {"team":"$(team)"}

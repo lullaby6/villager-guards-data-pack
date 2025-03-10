@@ -1,1 +1,0 @@
-title @a title {"text":"TIE!","color":"gold","bold":true}
