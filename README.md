@@ -14,19 +14,9 @@ Now villager guards will appear in the villages, there are two types, archers an
 You can turn an fletcher villager into an archer by dropping a bow at him
 and turn a weaponsmith villager into a swordman by dropping a iron sword at him.
 
-Version: `1.21.5`
-
 ## ❗Requirements
 
 - [`Utils Data-Pack`](https://modrinth.com/datapack/lullaby-utils)
-
-## 📂 Installation
-
-Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
-
-## 👾 Bugs/Issues
-
-Please report any problem/bug/issues in the [Discord Server](https://discord.gg/5UdcDa5xNC).
 
 ## ⌨️ Commands
 
@@ -48,18 +38,6 @@ or
 /tag <villager> add villager_guards.target.bypass
 ```
 
-Disable:
-
-```mcfunction
-/datapack disable "file/villager-guards.zip"
-```
-
-Enable:
-
-```mcfunction
-/datapack enable "file/villager-guards.zip"
-```
-
 ## 🪪 License
 
-[MIT](https://github.com/lullaby6/villager-guards-data-pack/blob/main/LICENSE)
+[AGPLv3](https://github.com/lullaby6/villager-guards-data-pack/blob/main/LICENSE)
