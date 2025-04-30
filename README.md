@@ -26,16 +26,16 @@ Config:
 /function villager_guards:config
 ```
 
-Prevent villager convert into a Villager Guard using `villager_guards.target.bypass` tag:
+Prevent villager convert into a Villager Guard using `villager_guards.natural_spawn.procced` tag:
 
 ```mcfunction
-/summon villager ~ ~ ~ {Tags:["villager_guards.target.bypass"]}
+/tag <villager> add villager_guards.natural_spawn.procced
 ```
 
-or
+Prevent Villager Guards attack entity using `villager_guards.target.bypass` tag:
 
 ```mcfunction
-/tag <villager> add villager_guards.target.bypass
+/tag <entity> add villager_guards.target.bypass
 ```
 
 ## 🪪 License
