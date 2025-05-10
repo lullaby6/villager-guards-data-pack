@@ -5,7 +5,7 @@ tellraw @s [{"color":"gray","text":"Version: "},{"color":"aqua","text":"v1.1.0"}
 
 tellraw @s ""
 
-tellraw @s {"color":"gray",text:"Options:","underlined":true}
+tellraw @s {"color":"gray","text":"Options:","underlined":true}
 
 tellraw @s ""
 
