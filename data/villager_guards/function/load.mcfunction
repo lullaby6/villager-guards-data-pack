@@ -1,5 +1,3 @@
-function villager_guards:requeriments/load
-
 scoreboard objectives add villager_guards.config dummy
 execute unless score load villager_guards.config matches 1 run function villager_guards:config/load
 

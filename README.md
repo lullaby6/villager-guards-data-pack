@@ -14,10 +14,6 @@ Now villager guards will appear in the villages, there are two types, archers an
 You can turn an fletcher villager into an archer by dropping a bow at him
 and turn a weaponsmith villager into a swordman by dropping a iron sword at him.
 
-## ❗Requirements
-
-- [`Utils Data-Pack`](https://modrinth.com/datapack/lullaby-utils)
-
 ## ⌨️ Commands
 
 Config:
