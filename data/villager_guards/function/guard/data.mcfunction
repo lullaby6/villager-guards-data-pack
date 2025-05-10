@@ -10,11 +10,11 @@ item replace entity @s armor.chest with iron_chestplate[enchantments={levels:{"m
 item replace entity @s armor.legs with chainmail_leggings[enchantments={levels:{"minecraft:vanishing_curse":1}},enchantment_glint_override=false] 1
 item replace entity @s armor.feet with iron_boots[enchantments={levels:{"minecraft:vanishing_curse":1}},enchantment_glint_override=false] 1
 
-attribute @s minecraft:max_health base set 40
-attribute @s minecraft:follow_range base set 25
-attribute @s minecraft:knockback_resistance base set 0.5
-attribute @s minecraft:movement_speed base set 0.325
-attribute @s minecraft:burning_time base set 0
+attribute @s minecraft:generic.max_health base set 40
+attribute @s minecraft:generic.follow_range base set 25
+attribute @s minecraft:generic.knockback_resistance base set 0.5
+attribute @s minecraft:generic.movement_speed base set 0.325
+attribute @s minecraft:generic.burning_time base set 0
 
 data modify entity @s Health set value 40f
 data modify entity @s CustomName set value "Villager Guard"
