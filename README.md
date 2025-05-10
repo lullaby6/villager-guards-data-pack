@@ -9,6 +9,10 @@
 [![Repo Size](https://img.shields.io/github/repo-size/lullaby6/villager-guards-data-pack?logo=dropbox&color=red)](https://github.com/lullaby6/villager-guards-data-pack)
 [![Stars](https://img.shields.io/github/stars/lullaby6/villager-guards-data-pack?logo=github&color=yellow)](https://github.com/lullaby6/villager-guards-data-pack/stargazers)
 
+![bg](https://raw.githubusercontent.com/lullaby6/villager-guards-data-pack/refs/heads/main/images/bg.png)
+
+## 📖 Description
+
 Now villager guards will appear in the villages, there are two types, archers and swordsmen, they can pick up weapons, armors and totems!
 
 You can turn an fletcher villager into an archer by dropping a bow at him
