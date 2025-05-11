@@ -4,12 +4,12 @@
       "trigger": "minecraft:player_hurt_entity",
       "conditions": {
         "entity": {
-          "type": "villager"
+          "type": "#villager_guards:team_villager"
         }
       }
     }
   },
   "rewards": {
-    "function": "villager_guards:player/hurt_villager"
+    "function": "villager_guards:player/hurt"
   }
 }
