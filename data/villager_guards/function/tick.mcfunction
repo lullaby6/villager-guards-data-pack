@@ -4,8 +4,8 @@ tag @a[gamemode=creative] remove utils.team_player
 tag @a[gamemode=spectator] remove utils.team_player
 
 team join player @e[tag=utils.team_player,tag=!villager_guards.target]
-team join player @e[type=minecraft:villager]
-team join player @e[type=minecraft:wandering_trader]
+team join player @e[type=#villager_guards:team_villager]
+team join player @e[tag=villager_guards.team_villager]
 team leave @a[team=player,tag=villager_guards.target]
 
 tag @e[type=#villager_guards:target,tag=!villager_guards.target.bypass,tag=!villager_guards.guard] add villager_guards.target
