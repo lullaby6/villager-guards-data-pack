@@ -10,6 +10,6 @@
     }
   },
   "rewards": {
-    "function": "villager_guards:player/hurt_villager"
+    "function": "villager_guards:player/hurt"
   }
 }

@@ -1,4 +1,4 @@
-advancement revoke @a only villager_guards:hurt_villager
+advancement revoke @a only villager_guards:hurt_team_villager
 advancement revoke @s only villager_guards:hurt_villager_guard
 
 execute if score attack_players villager_guards.config matches 0 run return fail
