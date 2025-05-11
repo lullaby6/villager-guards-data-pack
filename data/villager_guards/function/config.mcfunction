@@ -21,6 +21,8 @@ execute if score pick_up villager_guards.config matches 0 run tellraw @s [{"colo
 execute if score totem villager_guards.config matches 1 run tellraw @s [{"color":"gray","text":"- Pick Up Totems: "},{"bold":true,"clickEvent":{"action":"run_command","value":"/function villager_guards:config/options/totem/disable"},"color":"green","hoverEvent":{"action":"show_text","contents":[{"text":"Click to disable pick up totems"}]},"text":"ENABLED"}]
 execute if score totem villager_guards.config matches 0 run tellraw @s [{"color":"gray","text":"- Pick Up Totems: "},{"bold":true,"clickEvent":{"action":"run_command","value":"/function villager_guards:config/options/totem/enable"},"color":"gray","hoverEvent":{"action":"show_text","contents":[{"text":"Click to enable pick up totems"}]},"text":"DISABLED"}]
 
+execute if score attack_players villager_guards.config matches 1 run tellraw @s [{"color":"gray","text":"- Attack Players: "},{"bold":true,"clickEvent":{"action":"run_command","value":"/function villager_guards:config/options/attack_players/disable"},"color":"green","hoverEvent":{"action":"show_text","contents":[{"text":"Click to disable attack players"}]},"text":"ENABLED"}]
+execute if score attack_players villager_guards.config matches 0 run tellraw @s [{"color":"gray","text":"- Attack Players: "},{"bold":true,"clickEvent":{"action":"run_command","value":"/function villager_guards:config/options/attack_players/enable"},"color":"gray","hoverEvent":{"action":"show_text","contents":[{"text":"Click to enable attack players"}]},"text":"DISABLED"}]
 
 tellraw @s ""
 
